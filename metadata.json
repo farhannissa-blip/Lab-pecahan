@@ -1,0 +1,6 @@
+{
+  "name": "PecahanLab — Simulasi Pecahan GASING & Matematika Singapura",
+  "description": "Aplikasi pembelajaran simulasi mandiri pecahan dengan visualisasi konkrit balok kayu dan pizza, drag-and-drop interaktif, kuis, kombinasi Metode GASING dan Matematika Singapura, serta generator kode sematan Google Sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
